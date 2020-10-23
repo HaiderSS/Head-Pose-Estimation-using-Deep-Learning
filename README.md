@@ -22,7 +22,6 @@ BCCN gave an accuracy of 0.8108 on tilt (validation set) and accuracy of 0.1935 
 Sequential CNN gave us an overall acuracy of 0.7656
 
 Submissions:
-Requirement file for project is available as COSC2779_Assignment1.pdf
 our final trained model is saved as HeadPoseCNNClassifier.h5
 predictions are saved in s3796258.csv
 Report is available as Deep Learning report
